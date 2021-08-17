@@ -15,6 +15,7 @@ I will plan to follow the materials on the course accordingly and will produce t
 * Designing tables for domain as well as laying out business logic in service files
 * basic understanding of databases(as this is a practice application, an h2 database, which is commonly used for test environments was used)
 * Understanding and practicing REST API development
+* Optimizing JPQL using fetch join method and calling DTOs.
 
 ### errors that occured in the process
 * Delete 'out' file when css or javascript files are not implemented
