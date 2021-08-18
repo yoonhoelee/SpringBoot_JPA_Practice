@@ -11,9 +11,9 @@ In this repository I aim to practice the following skills.
 I will plan to follow the materials on the course accordingly and will produce toy web application while doing so.
 
 ## jpashop
-* practicing basic Java language and Spring framework
+* Practicing basic Java language and Spring framework
 * Designing tables for domain as well as laying out business logic in service files
-* basic understanding of databases(as this is a practice application, an h2 database, which is commonly used for test environments was used)
+* Basic understanding of databases(as this is a practice application, an h2 database, which is commonly used for test environments was used)
 * Understanding and practicing REST API development
 * Optimizing JPQL using fetch join method and calling DTOs.
 
@@ -30,3 +30,10 @@ I will plan to follow the materials on the course accordingly and will produce t
 
 ### errors that occured in the process
 * Forgot to add "<property name="hibernate.hbm2ddl.auto" value="create" />" in persistnece.xml resulting in failing to create the correct tables to map the data.
+
+
+## data-jpa
+* Basic understanding of Spring Data JPA
+* Adding different methods while still using Spring Data JPA
+* Adding base entity such as createDate, modifiedDate, createUser, modifiedUser
+* Paging using Spring Data JPA
