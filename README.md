@@ -37,3 +37,7 @@ I will plan to follow the materials on the course accordingly and will produce t
 * Adding different methods while still using Spring Data JPA
 * Adding base entity such as createDate, modifiedDate, createUser, modifiedUser
 * Paging using Spring Data JPA
+
+
+## querydsl
+* Basic understanding and practicing querydsl
